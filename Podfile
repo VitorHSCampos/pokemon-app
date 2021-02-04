@@ -6,6 +6,9 @@ target 'PokeApp' do
   use_frameworks!
 
   # Pods for PokeApp
+  pod 'RealmSwift'
+  pod 'FittedSheets'
+  pod 'KeychainAccess'
 
   target 'PokeAppTests' do
     inherit! :search_paths

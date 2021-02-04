@@ -1,3 +1,30 @@
-PODFILE CHECKSUM: 46ca6f2ffaa326db94d88e4ed1ede1c3edeb2818
+PODS:
+  - FittedSheets (2.4.0)
+  - KeychainAccess (4.2.1)
+  - Realm (10.5.1):
+    - Realm/Headers (= 10.5.1)
+  - Realm/Headers (10.5.1)
+  - RealmSwift (10.5.1):
+    - Realm (= 10.5.1)
+
+DEPENDENCIES:
+  - FittedSheets
+  - KeychainAccess
+  - RealmSwift
+
+SPEC REPOS:
+  trunk:
+    - FittedSheets
+    - KeychainAccess
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  FittedSheets: 470a7740a083156d711ab6ccd37d1d539005e6aa
+  KeychainAccess: 9b07f665298d13c3a85881bd3171f6f49b8151c1
+  Realm: 77fcb4e0b9f2963ea06f584749a0d7dc9cab95e1
+  RealmSwift: 6abe6aa6cd8b70cc1a87afcb9232cabea74ff1ac
+
+PODFILE CHECKSUM: 52690260209f6f457d5892f17970cf0392124edc
 
 COCOAPODS: 1.10.0
