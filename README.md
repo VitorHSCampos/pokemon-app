@@ -15,7 +15,7 @@ Utiliza bibliotecas de terceiros, instaladas através do [CocoaPods](https://coc
 
 
 
-Todas as informações sobre pokemons são estraidas da [PokéAPI](https://pokeapi.co)
+Todas as informações sobre pokemons são extraidas da [PokéAPI](https://pokeapi.co)
 
 ### Configuração
 ```
